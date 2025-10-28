@@ -1,0 +1,17 @@
+metadata/
+*.png
+
+**/xyz/
+**/.settings/
+**/Debug/
+**/Startup/
+**/STM32F4xx_HAL_Driver/
+
+**/*.abc
+**/*.cproject
+**/*.project
+**/*.cfg
+**/*.launch
+**/*.ld
+**/*.ioc
+**/*.mxproject
